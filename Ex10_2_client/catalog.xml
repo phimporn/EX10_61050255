@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/Ex10_2_SOAP/StudentWebService?Tester" uri="xml-resources/web-service-references/StudentWebService_Tester/wsdl/localhost_8080/Ex10_2_SOAP/StudentWebService.tester"/>
+    <system systemId="http://localhost:8080/Ex10_2_SOAP/StudentWebService?WSDL" uri="xml-resources/web-service-references/StudentWebService/wsdl/localhost_8080/Ex10_2_SOAP/StudentWebService.wsdl"/>
+    <system systemId="http://localhost:8080/Ex10_2_SOAP/StudentWebService?xsd=1" uri="xml-resources/web-service-references/StudentWebService/wsdl/localhost_8080/Ex10_2_SOAP/StudentWebService.xsd_1.xsd"/>
+</catalog>
